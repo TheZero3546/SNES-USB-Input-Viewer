@@ -1,9 +1,11 @@
 # SNES-USB-Input-Viewer
 Program made for streamers and such to show usb inputs SNES-style.
 
+
 **The compiled program can be found on the application.windows32 and application.windows64 folders**
 
 **It needs java to run**
+
 
 
 This has been made with Processing and the GameControlPlus library.
