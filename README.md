@@ -5,7 +5,7 @@ Program made for streamers and such to show usb inputs SNES-style
 This has been made with Processing and the GameControlPlus library.
 
 If the buttons do not correspond to yours, just go to the project folder, enter data folder and edit the "SNES" archive as such:
-  -The first column is the column the general program refers to, do not touch it.
+  -The first column is the column the general program refers to, do not touch it. \n
   -The second column is a description, just for you to know what the variable is for.
   -The third column is for the button type:
     ·One is for Button.
