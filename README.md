@@ -18,6 +18,9 @@ If the buttons do not correspond to yours, just go to the project folder, enter 
         
         ·Three is for Slider (Sticks).
     
-    -The fourth column is the one that refers to the gamepad button numbers. This is what you have to change.If you do not know what your     input numbers are, just go to "control panel > devices > right click on your device and select "configure", o the pup up window click     properties and there you have it.
+    -The fourth column is the one that refers to the gamepad button numbers.
+    This is what you have to change.If you do not know what your input numbers are,
+    just go to "control panel, devices, right click on your device and select "configure",
+    on the pup up window click properties and there you have it.
    
-    -The fourth and fifth columns just refer to the sliders, so no need for touching them either.
+    -The fifth and sixth columns just refer to the sliders, so no need for touching them either.
