@@ -1,0 +1,11 @@
+SNES Input
+YAXIS	Y pos	3	SLIDER	Eje Y	0	1.0	0.1
+XAXIS	X pos	3	SLIDER	Eje X	0	1.0	0.1
+B	B button	1	BUTTON	Botón 2	0	0.0	0.0
+A	A button	1	BUTTON	Botón 1	0	0.0	0.0
+X	X Button	1	BUTTON	Botón 0	0	0.0	0.0
+Y	Y Button	1	BUTTON	Botón 3	0	0.0	0.0
+LB	Left Bumper	1	BUTTON	Botón 4	0	0.0	0.0
+RB	Right Bumper	1	BUTTON	Botón 6	0	0.0	0.0
+SL	Select	1	BUTTON	Botón 8	0	0.0	0.0
+ST	Start	1	BUTTON	Botón 9	0	0.0	0.0
